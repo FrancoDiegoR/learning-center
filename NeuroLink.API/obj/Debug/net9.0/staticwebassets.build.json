@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eK8SzsIwOPbVfVUGP8dfc+6nJubDlg37csgQ39YoYYk=",
+  "Source": "NeuroLink.API",
+  "BasePath": "_content/NeuroLink.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
